@@ -1,5 +1,5 @@
 clear all
-cd"C:\Users\Viktor\Dropbox\Programming\Stata\Index analysis"
+cd"path/to/directory"
 *removes "more" prompt
 set more off
 *graphing colour scheme
