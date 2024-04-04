@@ -1,0 +1,25 @@
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SciPy
+- Statsmodels
+- TensorFlow
+- PyTorch
+- Keras
+- Scrapy
+- NLTK (Natural Language Toolkit)
+- Dask
+- XGBoost
+- LightGBM
+- Scikit-image
+- NetworkX
+- Neo4j
+- py2neo
+- Fuzzywuzzy
+- Jupytext
+- Psycopg2-binary
+- Spacy
+- OpenAI
+
